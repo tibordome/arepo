@@ -1,0 +1,5 @@
+*.svn-base filter=lfs diff=lfs merge=lfs -text
+*.hdf5 filter=lfs diff=lfs merge=lfs -text
+Tracking filter=lfs diff=lfs merge=lfs -text
+frozen/arepo128_cdm_gas_icelake_ompi_indouble_outsingle/L75TNG_Arepo_GFM_Tables/Cooling/cooling_metal_AGN_Compton.hdf5 filter=lfs diff=lfs merge=lfs -text
+frozen/arepo128_cdm_gas_icelake_ompi_indouble_outsingle/L75TNG_Arepo_GFM_Tables/Cooling/cooling_metal_AGN_Compton_self_shielding_Rahmati12.hdf5 filter=lfs diff=lfs merge=lfs -text
