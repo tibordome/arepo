@@ -1,0 +1,10 @@
+Hydrogen         0.76
+Helium           0.24
+Carbon           1.0e-10
+Nitrogen         1.0e-10
+Oxygen           1.0e-10
+Neon             1.0e-10
+Magnesium        1.0e-10
+Silicon          1.0e-10
+Iron             1.0e-10
+OtherMetals      1.0e-10

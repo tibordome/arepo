@@ -1,0 +1,95 @@
+
+% ----- examples/fastwave_2D
+
+BoxSize            1.0
+TimeBegin          0.0
+TimeMax            2.0
+
+ComovingIntegrationOn    0
+PeriodicBoundariesOn     1
+CoolingOn                0
+StarformationOn          0
+
+% [unit system]
+UnitLength_in_cm         1.0
+UnitMass_in_g            1.0
+UnitVelocity_in_cm_per_s 1.0
+GravityConstantInternal  0
+
+% [files, output, and run configuration]
+MaxMemSize                50
+TimeLimitCPU              300
+CpuTimeBetRestartFile     200
+TimeBetSnapshot           0.02
+TimeOfFirstSnapshot       0.0
+
+% [accuracy of time integration]
+TypeOfTimestepCriterion  0
+ErrTolIntAccuracy        0.012
+CourantFac               0.3
+MaxSizeTimestep          0.005
+MinSizeTimestep          0.0
+
+% [mesh movement]
+CellShapingSpeed       0.5
+CellMaxAngleFactor     2.25
+
+% ----- generic
+
+InitCondFile       ics
+OutputDir          output/
+SnapshotFileBase   snap
+ICFormat           3
+SnapFormat         3
+
+OutputListOn              0
+TimeBetStatistics         0.01
+NumFilesPerSnapshot       1
+NumFilesWrittenInParallel 1
+
+MultipleDomains                       4
+TopNodeFactor                         2.5
+ActivePartFracForNewDomainDecomp      0.01
+
+% ----- Braginskii viscosity
+%BragViscosityTimestep 1e-2            % Manually set a constant time step. For testing purposes only.
+BragViscosityCoefficient 0.05          % A constant viscosity coefficient
+BragViscosityCourant 0.4
+%BragViscosityMaxRKL2Stages 31         % The maximum number of stages allowed
+
+% ----- unused
+
+OutputListFilename  output.dat
+ResubmitOn          0
+ResubmitCommand     my-scriptfile
+Omega0              0.0
+OmegaLambda         0.0
+OmegaBaryon         0.0
+HubbleParam         0.0
+
+InitGasTemp                           0.0
+MinGasTemp                            0.0
+MinimumDensityOnStartUp               0.0
+LimitUBelowThisDensity                0.0
+LimitUBelowCertainDensityToThisValue  0.0
+MinEgySpec                            0.0
+
+% [gravity]
+TypeOfOpeningCriterion    1
+ErrTolTheta               0.7
+ErrTolForceAcc            0.0025
+DesNumNgb                 32 % also initial density()
+MaxNumNgbDeviation        2 % also initial density()
+
+SofteningComovingType0    0.0
+SofteningComovingType1    0.0
+SofteningMaxPhysType0     0.0
+SofteningMaxPhysType1     0.0
+GasSoftFactor             0.0
+SofteningTypeOfPartType0  0
+SofteningTypeOfPartType1  0
+SofteningTypeOfPartType2  0
+SofteningTypeOfPartType3  0
+SofteningTypeOfPartType4  0
+SofteningTypeOfPartType5  0
+

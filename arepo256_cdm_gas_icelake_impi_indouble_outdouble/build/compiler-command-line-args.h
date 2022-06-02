@@ -1,0 +1,1 @@
+static const char *compiler_flags = "mpiicc -g -Wall -Wno-unknown-pragmas -std=c99 -DH5Dopen_vers=1 -DH5Dcreate_vers=1 -DH5Gopen_vers=1 -DH5Gcreate_vers=1 -DH5Acreate_vers=1 -O3  -DH5_USE_16_API           -I./build     ";

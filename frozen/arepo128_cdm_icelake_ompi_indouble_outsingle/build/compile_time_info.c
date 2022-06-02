@@ -1,0 +1,36 @@
+#include <stdio.h>
+void output_compile_time_options(void)
+{
+printf(
+"        PMGRID=128\n"
+"        INPUT_IN_DOUBLEPRECISION\n"
+"        NTYPES=6\n"
+"        PERIODIC\n"
+"        VORONOI\n"
+"        TREE_BASED_TIMESTEPS\n"
+"        SELFGRAVITY\n"
+"        HIERARCHICAL_GRAVITY\n"
+"        CELL_CENTER_GRAVITY\n"
+"        EVALPOTENTIAL\n"
+"        RCUT=5.0\n"
+"        CHUNKING\n"
+"        DOUBLEPRECISION=1\n"
+"        DOUBLEPRECISION_FFTW\n"
+"        NGB_TREE_DOUBLEPRECISION\n"
+"        FOF\n"
+"        FOF_PRIMARY_LINK_TYPES=2\n"
+"        FOF_SECONDARY_LINK_TYPES=1+16+32\n"
+"        SUBFIND\n"
+"        SAVE_HSML_IN_SNAPSHOT\n"
+"        SUBFIND_CALC_MORE\n"
+"        SUBFIND_EXTENDED_PROPERTIES\n"
+"        PROCESS_TIMES_OF_OUTPUTLIST\n"
+"        VORONOI_DYNAMIC_UPDATE\n"
+"        ENLARGE_DYNAMIC_RANGE_IN_TIME\n"
+"        FIX_SPH_PARTICLES_AT_IDENTICAL_COORDINATES\n"
+"        REDUCE_FLUSH\n"
+"        OUTPUT_CPU_CSV\n"
+"        HAVE_HDF5\n"
+"        HOST_MEMORY_REPORTING\n"
+"\n");
+}

@@ -1,0 +1,257 @@
+
+This list shows the people who currently have repository access to AREPO.
+We refer to them as developers here, although of course only a subset of
+them makes commits. 
+
+If you would like to go from a SVN user-id in a commit log-message to
+the actual person, then this is the place to look. Since the transition to 
+git on bitbucket, SVN-UserID is left blank.
+
+
+SVN-UserID    Name                 Email                                      Institution
+
+volker        Volker Springel      volker.springel@h-its.org                  HITS
+jesus         Jesus Zavala         jzavalaf@uwaterloo.ca                      DARK
+vogelsma      Mark Vogelsberger    mvogelsb@cfa.harvard.edu                   CfA
+rpakmor       Ruediger Pakmor	   ruediger.pakmor@h-its.org                  HITS
+tgreif        Thomas Greif         thomas.greif@h-its.org                     HITS
+dmunoz        Diego Munoz          dmunoz@astro.cornell.edu                   Cornell
+dylan         Dylan Nelson         dnelson@mpa-garching.mpg.de                MPA
+puchwein      Ewald Puchwein       puchwein@ast.cam.ac.uk                     IoA
+bauera        Andreas Bauer        andreas.bauer@h-its.org                    HITS
+lsales        Laura Sales          lsales@cfa.harvard.edu                     CfA
+deboras       Debora Sijacki       deboras@ast.cam.ac.uk                      IoA
+yurinds       Denis Yurin          denis.yurin@h-its.org                      HITS
+rjs22         Rowan Smith          rowanjsmith.astro@googlemail.com           ITA
+marinacci     Federico Marinacci   federico.marinaccci2@unibo.it              Unibo
+cchayward     Chris Hayward        christopher.hayward@h-its.org              HITS
+sgenel        Shy Genel            shygenelastro@gmail.com                    Columbia
+gsnyder       Greg Snyder          gsnyder@cfa.harvard.edu                    CfA
+spb           Simeon Bird          spb@ias.edu                                IAS
+ptorrey       Paul Torrey          ptorrey@cfa.harvard.edu                    CfA
+dominik_st    Dominik Steinhauser  dominik.steinhauser@uibk.ac.at             Innsbruck
+msasaki       Mei Sasaki           Sasaki@stud.uni-heidelberg.de              ITA
+mpetkova      Margarita Petkova    margarita.petkova@tum.de                   TUM
+fbecerra      Fernando Becerra     fbecerra@cfa.harvard.edu                   CfA
+kuiper        Rolf Kuiper          kuiper@mpia.de                             MPIA
+sohlmann      Sebastian Ohlmann    sohlmann@astro.uni-wuerzburg.de            Wuerzburg
+fritz         Fritz Roepke         friedrich.roepke@astro.uni-wuerzburg.de    Wuerzburg
+gschnuecke    Gero Schnücke        gero.schnuecke@mathematik.uni-wuerzburg.de Wuerzburg
+mzenk         Markus Zenk          markus.zenk@gmx.de                         Wuerzburg 
+jpgalleg      Pablo Gallego        jpgalleg@gmail.com                         Wuerzburg
+LukasBott     Lukas Bott           lukas.bott@stud-mail.uni-wuerzburg.de      Wuerzburg
+bhurle        Benedikt Hurle       benedikt.hurle@stud-mail.uni-wuerzburg.de  Wuerzburg
+schaalkn      Kevin Schaal         Kevin.Schaal@h-its.org                     HITS
+shazrene      Schazrene Mohamed    shazrene@saao.ac.za                        SAAO
+ebopp         Eduard Bopp          eduard.bopp@aepsil0n.de                    ITA
+pmocz         Philip Mocz          pmocz@fas.harvard.edu                      CfA
+kmarquardt    Kai Marquardt        kmarquardt@astro.uni-wuerzburg.de          Wuerzburg
+cczhu         Charles Zhu          cczhu@astro.utoronto.ca                    Toronto
+csimpson      Christine Simpson    christine.simpson@h-its.org                HITS
+vitali        Vitali Pauz          pauz.vitali@googlemail.com                 HITS
+calig         Christian Alig       alig@usm.lmu.de                            USM/LMU
+jsuresh       Joshua Suresh        jsuresh@cfa.harvard.edu                    CfA
+krzyszja      Jolanta Krzyszkowska Jolanta.Krzyszkowska@h-its.org             HITS
+ryan          Ryan McKinnon        ryanmck@mit.edu                            MIT
+apillepich    Annalisa Pillepich   apillepich@cfa.harvard.edu                 CfA
+kannan        Rahul Kannan         kannan@mpia-hd.mpg.de                      MPIA/MIT
+pfrommer      Christoph Pfrommer   christoph.pfrommer@h-its.org		      HITS
+jill          Jill Naiman          jill.naiman@cfa.harvard.edu                CfA
+grandrt       Robert Grand         robert.grand@h-its.org                     HITS
+weinberr      Rainer Weinberger    rainer@cita.utoronto.ca                    CITA
+djrcampbell   David Campbell       d.j.r.campbell@durham.ac.uk                Durham
+pcc           Paul Clark           paul.clark@astro.cf.ac.uk                  Cardiff
+jppaarde      Jan-P. Paardekooper  paardekooper@uni-heidelberg.de             ITA
+lkelley       Luke Zoltan Kelley   lkelley@cfa.harvard.edu                    CfA
+sparre        Martin Sparre        martin.sparre@h-its.org                    HITS
+michaelrccurtis Michael Curtis     mc636@ast.cam.ac.uk                        IoA
+rsk           Ralf Klessen         klessen@uni-heidelberg.de                  ITA
+sglover       Simon Glover         glover@uni-heidelberg.de                   ITA
+bauswein      Andreas Bauswein     andreas.bauswein@h-its.org                 HITS
+              Benedikt Diemer      benedikt.diemer@cfa.harvard.edu            CfA
+              Anna Schauer         schauer@uni-heidelberg.de                  ITA
+              Sebastian Bustamante sebastian.bustamante@h-its.org             HITS
+              Matthew Smith        msmith@mpia.de                             ITA/MPIA
+              Naoki Yoshida        naoki.yoshida@ipmu.jp                      IPMU
+              Shigeki Inoue        inoue@astr.tohoku.ac.jp                    IPMU
+              Philipp Girichidis   Philipp@girichidis.com                     HITS/MPA
+              Sarah Wellons        swellons@cfa.harvard.edu                   CfA
+              Kristian Ehlert      ehlert@stud.uni-heidelberg.de              HITS
+              Matteo Pais          matteo.pais@h-its.org                      HITS
+              Robin Tress          robingopala.treb@studio.unibo.it           ITA
+              Ondrej Jaura         ondrej.jaura@uni-heidelberg.de             ITA
+              Balaji Venka         balajivenkat96@gmail.com                   HITS
+              Rachael Spowage      SpowageRL@cardiff.ac.uk                    Cardiff
+              Conrad Chan          Conrad.Chan@h-its.org                      HITS/Monash
+              Felipe Goicovic      Felipe.Goicovic@h-its.org                  HITS
+              Thomas Guillet       T.A.Guillet@exeter.ac.uk                   Exeter
+              Georg Winner         georg.winner@h-its.org                     HITS
+              Thales Gutcke        thales@mpia.de                             MPIA
+              Freeke van de Voort  Freeke.vandeVoort@h-its.org                HITS
+              Diederik Kruijssen   kruijssen@uni-heidelberg.de                ARI
+              Daniel Haydon        dthaydon@ari.uni-heidelberg.de             ARI
+              Sarah Jeffreson      s.jeffreson@uni-heidelberg.de              ARI
+              Marta Reina-Campos   reina.campos@uni-heidelberg.de             ARI
+              Davide Fiacconi      fiacconi@ast.cam.ac.uk                     IoA
+              Chiaki Kobayashi     c.kobayashi@herts.ac.uk                    Hertfordshire
+              Sam Geen             sam.geen@uni-heidelberg.de                 ITA
+              Mattia Sormani       mattia.sormani@uni-heidelberg.de           ITA
+              Markus Kromer        markus.kromer@h-its.org                    HITS
+              Ivo Seitenzahl       ivo.seitenzahl@anu.edu.au                  ANU
+              Christian Sand       christian.sand@h-its.org                   HITS
+              Maan Hani            mhani@uvic.ca                              UVic
+              Gen Chiaki           chiaki@center.konan-u.ac.jp                Konan University
+              Thomas Berlok        berlok@nbi.dk                              AIP
+              Noam Libeskind       nlibeskind@aip.de                          AIP
+              Anastasia Fialkov    anastasia.fialkov@cfa.harvard.edu          CfA
+              Mattis Magg          mattis.magg@stud.uni-heidelberg.de         ITA
+              Ana Duarte Cabral    adc@astro.cf.ac.uk                         Cardiff
+              Martin Bourne        mabourne@ast.cam.ac.uk                     Cambridge
+              Katharina Wollenberger kwollenberg89@gmail.com                  ITA
+              Matthew Ridley       matthew.ridley@physics.ox.ac.uk            Oxford
+              John Magorrian       magog@thphys.ox.ac.uk                      Oxford
+              Umberto Maio         maio@mpa-garching.mpg.de                   MPA
+              Markus Zenk          markus.zenk@uni-wuerzburg.de               Wuerzburg
+              Ana-Roxana Pop       ana-roxana.pop@cfa.harvard.edu             CfA
+              Edoardo Carlesi      carlesi@phys.huji.ac.il                    AIP
+              Melanie Kaasinen     kaasinen@mpia-hd.mpg.de                    ITA/MPIA
+              Kristin Blancato     k.blancato@columbia.edu                    Columbia
+              Sownak Bose          sownak.bose@cfa.harvard.edu                CfA
+              David Barnes         djbarnes@mit.edu                           MIT
+              Timon Thomas         tthomas@aip.de                             AIP
+              Hui Li               hliastro@mit.edu                           MIT
+              Timo Halbesma        halbesma@mpa-garching.mpg.de               MPA
+              Tilman Hartwik       hartwig@iap.fr                             IPMU
+              Xiaohan Wu           xiaohan.wu@cfa.harvard.edu                 CfA
+              Myles Mitchell       m.a.mitchell@durham.ac.uk                  Durham
+              Cesar Hernandez-Ahuayo cesar.hernandez-aguayo@durham.ac.uk      Durham
+              Baojiu Li            baojiu.li@durham.ac.uk                     Durham
+              Manuel Kramer        kramer.manuel@gmx.net                      HITS
+              Facundo Gomez        facundog79@gmail.com                       ULS
+              Andrew Bostock       BostockAM@cardiff.ac.uk                    Cardiff
+              Azadeh Fattahi       azadeh.fattahi-savadjani@durham.ac.uk      Durham
+              Nir Mandelker        nir.mandelker@yale.edu                     Yale/HITS
+              Alexander Richings   a.j.richings@northwestern.edu              Northwestern
+              John ZuHone          john.zuhone@cfa.harvard.edu                CfA  
+              Francesca Fragkoudi  ffrag@mpa-garching.mpg.de                  MPA
+              Seamus Clarke        seamus.clarke@astro.cf.ac.uk               Cardiff
+              Sabrina Gronow       sabrina.gronow@h-its.org                   HITS
+              Aaron Smith          asmith@astro.as.utexas.edu                 MIT/UTexas
+              Christian Klingenberg klingen@mathematik.uni-wuerzburg.de       Wuerzburg
+              Michael Dumbser      michael.dumbser@unitn.it                   Trento
+              Elena Gaburro        elena.gaburro@unitn.it                     Trento
+              Walter Boscheri      walter.boscheri@unitn.it                   Trento 
+              Jayesh Badwaik       jayesh.badwaik@mathematik.uni-wuerzburg.de Wuerzburg
+              Camilo Penaloza      camilo.penaloza@gmail.com                  Cardiff
+              Laura Blecha         lblecha@ufl.edu                            Florida
+              Martin Reinecke      martin@mpa-garching.mpg.de                 MPA
+              Michael Kueffmeier   kueffmeier@uni-heidelberg.de               ITA
+              Perry Hatchfield     h.hatchfield@uconn.edu                     U. of Connecticut
+              Georgios Lioutas     lioutasgeorgios@gmail.com                  HITS
+              Ben Keller           benjamin.keller@uni-heidelberg.de          ARI, Uni-HD
+              Simon May            smay@mpa-garching.mpg.de                   MPA
+              Sebastian Trujillo-Gomez  strujill@gmail.com                    ARI, Uni-HD
+              Jindra Gensior       j.gensior@uni-heidelberg.de                ARI, Uni-HD
+              Stephanie O'Neil     sloneil@mit.edu                            MIT
+              Johannes Meyer       jmeyer@mpa-garching.mpg.de                 MPA
+              Maria Werhahn        mwerhahn@aip.de                            AIP 
+              Alexander Scherrmann scherrmann@uni-potsdam.de                  AIP/Potsdam
+              Joseph Whittingham   whittingham@uni-potsdam.de                 AIP/Potsdam
+              Gerwyn Jones         JonesG71@cardiff.ac.uk                     Cardiff
+              Tiago Costa          tcosta@mpa-garching.mpg.de                 MPA
+              Prateek Sharma       prateek@MPA-Garching.MPG.DE                MPA/Bangalore
+              Manuel Kraemer       manuel.kramer@h-its.org                    HITS
+              Fabian Schneider     fabian.schneider@h-its.org                 HITS
+              Enrico Garaldi       egaraldi@mpa-garching.mpg.de               MPA
+              Rosie Talbot         rt421@cam.ac.uk                            Cambridge
+              Anna Rosen           anna.rosen@cfa.harvard.edu                 CfA
+              Michaele Hirschmann  hirschma@iap.fr                            IAP
+              Sophie Koudmani      skoudmani@ast.cam.ac.uk                    Cambridge
+              Magdalena Siwek      Magdalena.siwek@cfa.harvard.edu            CfA
+              Jake Bennett         jsb210@cam.ac.uk                           Cambridge
+              Colin DeGraf         cdegraf@ast.cam.ac.uk                      Cambridge
+              David Whitworth      david.whitworth@manchester.ac.uk           Manchester
+              Aklant Bhowmick      akbhowmi@andrew.cmu.edu                    CMU/Florida
+              Michael Foley        michael.foley@cfa.harvard.edu              CfA
+              Maria Werhahn        mwerhahn@aip.de                            AIP
+              Oliver Zier          O.Zier@web.de                              MPA
+              Oliver Franke        ofranke@uni-potsdam.de                     AIP
+              Matteo Frigo         mfrigo@MPA-Garching.MPG.DE                 MPA
+              Christoph Becker     chrbecker01@gmail.com                      Durham
+              Li-Hsin Chen         lhchen017@gmail.com                        ITA
+              Melvin Maldonado     correodemelvin@gmail.com                   ITA
+              Qi Li                pg3552@ufl.edu                             UFL
+              Tobias Buck          buck@mpia-hd.mpg.de                        AIP
+              Ken Chen             chenken1229@gmail.com                      ASIAA
+              Jeffrey Salmond      js947@cam.ac.uk                            Cambridge
+              Chris Hadjigeorgiou  ch741@cam.ac.uk                            Cambridge
+              Toni Peter           tonipeter92@gmail.com                      Uni Heidelberg
+              Chiaki Kobayashi     c.kobayashi@herts.ac.uk                    U. of Hertfordshire
+              Alankar Dutta        alankardutta@iisc.ac.in                    Indian Institute of Science
+              Dimitrios Irodotou   Dimitrios.Irodotou@sussex.ac.uk            U. of Sussex
+              Drummond Fielding    dfielding@flatironinstitute.org            CCA
+              Jessica May Hislop   jmhislop@MPA-Garching.MPG.DE               MPA
+              Javier Moran         javier.moranfraile@h-its.org               HITS
+              Lewis Prole          ProleL@cardiff.ac.uk                       Cardiff
+              Tsang K Chan         tsang.k.chan@durham.ac.uk                  Durham
+              Benny Tsang          btsang@ucsb.edu                            UCSB
+              Patrick Ondratschek  patrick.ondratschek@h-its.org              HITS
+              Alexander Kaurov     akaurov@gmail.com                          IAS/Princeton
+              Gus Beane            angus.beane@cfa.harvard.edu                CfA
+              George Korkidis      gkorkidis@physics.uoc.gr                   University of Crete
+              Christoph Schaefer   ch.schaefer@uni-tuebingen.de               Uni Tuebingen
+              Miha Cernetic        miha@filetki.si                            MPA
+              Maxim Trebitsch      trebitsch@mpia.de                          MPIA
+              Desika Narayanan     desika.narayanan@gmail.com                 UFL
+              Jonah Rose           j.rose@ufl.edu                             UFL
+              Alex Qi              jqi@ufl.edu                                UFL
+              Nina Sartorio        sartorio.nina@gmail.com                    Cambridge
+              Michael Miccioli     miccioli@college.harvard.edu               CfA
+              Philipp Busch        pbusch@MPA-Garching.MPG.DE                 MPA
+              Thomas Baumann       thomas.baumann@h-its.org                   HITS
+              Joey Braspenning     braspenning@strw.leidenuniv.nl             Leiden
+              Glen Hunter          glen.hunter@uni-heidelberg.de              Heidelberg
+              Earl Bellinger       bellinger@phys.au.dk                       Aarhus
+              Victor Aguirre       victor@phys.au.dk                          Aarhus
+              Mark Lykke Winther   mark@phys.au.dk                            Aarhus
+              Lionel Bigot         lionel.bigot@oca.eu                        Observatoire de la Cote d'Azur
+              Eva Duran Camacho    DuranCamachoE@cardiff.ac.uk                Cardiff
+              Rebecca Bieri        bieri.rebekka@gmail.com                    MPA
+	      Hila Glanz           hilaglanz@gmail.com                        Technion
+              Hayden Foote         haydenfoote@email.arizona.edu              Arizona
+              Joe Lewis            Joe.Lewis@uni-heidelberg.de                ITA
+              Loke Lonnblad        loke.lonnblad@gmail.com                    ITA
+              Elias Olofsson       elol0076@student.umu.se                    HITS
+              Jan Philipp Beckmann Jan_Philipp.Beckmann@stud.uni-heidelberg.de Uni Heidelberg
+              Laura Keating        lkeating@aip.de                            AIP
+              Zhiyuan Yao          zhiyuan@mpa-garching.mpg.de                MPA
+              Daniel DeFelippis    d.defelippis@columbia.edu                  Columbia/CCA
+              Kastytis Zubovas     kastytis.zubovas@ftmc.lt                   Vilnius
+              Sultan Hassan        shassan@flatironinstitute.org              CCA/Flatiron
+              Mateusz Ruszkowski   mateuszr@umich.edu                         U. of Michigan
+              Marco Vetter         marco.vetter@h-its.org                     HITS
+              Matthias Weber       maweber@aip.de                             AIP
+              Fulvio Ferlito       ferlito@mpa-garching.mpg.de                MPA
+              William Lake         wlake@astro.ucla.edu                       UCLA
+              Anna Genina          agenina@mpa-garching.mpg.de                MPA
+              Uri Baumeister       Uri.Burmester@anu.edu.au                   ANU
+              Josh Borrow          borrowj@mit.edu                            MIT
+              Junia Goeller        goeller@stud.uni-heidelberg.de             ITA
+              Nikos Sagias         nsagias@aip.de                             AIP
+              Bocheng Zhu          bczhu@MPA-Garching.MPG.DE                  MPA
+              Chris Byrohl         cbyrohl@MPA-Garching.MPG.DE                MPA/ITA Heidelberg
+              Alexander Holas      alexander.holas@h-its.org                  HITS
+              Tibor Dome           td448@cam.ac.uk                            Cambridge
+              Rahul Ramesh         rahul.ramesh@stud.uni-heidelberg.de        ITA Heidelberg
+              Aneesh Sivasankaran  aneeshs@ufl.edu                            Florida
+              Hector Velazquez     hmv@astro.unam.mx                          UNAM
+              Yongseok Jo          g.kerex@gmail.com                          CCA/Columbia
+              Boryana Hadzhiyska   boryana.hadzhiyska@cfa.harvard.edu         CfA
+              Andreas Kristian Kjeldsen  201706611@post.au.dk                 Aarhus
+              Alex Tocher          at802@cam.ac.uk                            Cambridge
+              Lena Jlassi          ljlassi@aip.de                             AIP
+              Kiril Dichev         kd486@cam.ac.uk                            Cambridge
+              Cameron Bogue        cameron.bogue@manchester.ac.uk             Manchester
+              Rachel Losacco       losaccorachel@gmail.com                    UFL
+              Chia-Yu Hu           huchiayu0517@gmail.com                     MPE/UFL
+              Samuel Ruthven Ward  SamuelRuthven.Ward@eso.org                 ESO/MPA
